@@ -1,6 +1,12 @@
-# bitcoin
+### bITCOIN TICKER
+This app shows the current crypto currency price in current time
 
-A new Flutter application.
+### Sample 
+
+![Screenshot (4)](https://user-images.githubusercontent.com/48242153/87220669-923fac80-c383-11ea-9436-64eba8f821bd.png)
+![Screenshot (5)](https://user-images.githubusercontent.com/48242153/87220676-9a97e780-c383-11ea-8608-846c3dc530ee.png)
+![Screenshot (6)](https://user-images.githubusercontent.com/48242153/87220688-b8654c80-c383-11ea-9eed-ec9e24651b16.png)
+
 
 ## Getting Started
 
